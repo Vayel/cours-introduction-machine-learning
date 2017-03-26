@@ -1,0 +1,55 @@
+{
+    "object": "container", 
+    "slug": "les-machines-aussi-peuvent-apprendre-1", 
+    "title": "Les machines aussi peuvent apprendre", 
+    "introduction": "introduction.md", 
+    "conclusion": "conclusion.md", 
+    "children": [
+        {
+            "object": "extract", 
+            "slug": "la-notion-dapprentissage", 
+            "title": "La notion d'apprentissage", 
+            "text": "la-notion-dapprentissage.md"
+        }, 
+        {
+            "object": "extract", 
+            "slug": "notre-probleme-sur-les-traces-des-ours", 
+            "title": "Notre problème : sur les traces des ours", 
+            "text": "notre-probleme-sur-les-traces-des-ours.md"
+        }, 
+        {
+            "object": "extract", 
+            "slug": "un-modele-lineaire", 
+            "title": "Un modèle linéaire", 
+            "text": "un-modele-lineaire.md"
+        }, 
+        {
+            "object": "extract", 
+            "slug": "une-question-doptimisation", 
+            "title": "Une question d'optimisation", 
+            "text": "une-question-doptimisation.md"
+        }, 
+        {
+            "object": "extract", 
+            "slug": "la-descente-de-gradient", 
+            "title": "La descente de gradient", 
+            "text": "la-descente-de-gradient.md"
+        }, 
+        {
+            "object": "extract", 
+            "slug": "changeons-de-dimension", 
+            "title": "Changeons de dimension", 
+            "text": "changeons-de-dimension.md"
+        }, 
+        {
+            "object": "extract", 
+            "slug": "reprenons-du-recul-sur-le-machine-learning", 
+            "title": "Reprenons du recul sur le machine learning", 
+            "text": "reprenons-du-recul-sur-le-machine-learning.md"
+        }
+    ], 
+    "version": 2, 
+    "description": "Introduction pratique au machine learning", 
+    "type": "TUTORIAL", 
+    "licence": "CC BY"
+}
